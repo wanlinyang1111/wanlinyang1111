@@ -1,8 +1,5 @@
 # 👋 Hi, I’m Wanlin
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
-
 - 🌱 Currently Learning: Full-stack web development, Cloud technologies
 - 💻 Experience: 3 years of full-time experience as a data analyst, a Bachelor of Arts and an Associate in Management Science
 - ⚡ Fun Facts: Love to exploring different cultures, Lived in Taipei and Paris
