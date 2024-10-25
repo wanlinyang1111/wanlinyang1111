@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wanlin
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=wanlinyang1111)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=wanlinyang)
 
 - 🌱 Currently Learning: Full-stack web development, Cloud technologies
 - 💻 Experience: 3 years of full-time experience as a data analyst, a Bachelor of Arts and an Associate in Management Science
