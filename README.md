@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Wanlin
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Profile%20Views&query=$.visits&url=https%3A%2F%2Fvisitor-badge.glitch.me%2Fapi%2Fvisitors%3Fpage_id%3Dwanlinyang1111)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=wanlinyang1111)
 
 - 🌱 Currently Learning: Full-stack web development, Cloud technologies
 - 💻 Experience: 3 years of full-time experience as a data analyst, a Bachelor of Arts and an Associate in Management Science
