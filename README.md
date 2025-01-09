@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Wanlin
 
-- 🌱 Currently Learning: Full-stack web development, Cloud technologies
-- 💻 Experience: 3 years of full-time experience as a data analyst, a Bachelor of Arts and an Associate in Management Science
+- 💻 💻 **Currently a Software Intern at a Startup**, learning Full-stack web development and Cloud technologies
+- 💼 Previous Experience: 3 years of full-time experience as a data analyst, a Bachelor of Arts and an Associate in Management Science
 - ⚡ Fun Facts: Love exploring different cultures, Lived in Taipei and Paris
 
 ###### Programming Languages & Tools
