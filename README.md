@@ -4,7 +4,7 @@
 - 🧠 Currently completing a full-stack Software Engineer internship, focusing on React, Flask, PostgreSQL, and OpenAI API
 - 🌍 Previously a data analyst with 3 years of full-time experience and academic background in Business and Management
 - 🌱 Incoming MS in Software Engineering @ Northeastern University (Fall 2025, Boston)
-- ✨ Passionate about applying technology to real-world problems, especially at the intersection of AI, health, and user experience
+- ✨ Passionate about applying technology to real-world problems
 - 🌎 Fun facts: Lived in Taipei and Paris, love exploring cultures through everyday details
 
 ### 🔧 Tech Stack Highlights
