@@ -21,7 +21,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=flat-square&logo=api&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6F61?style=flat-square&logo=api&logoColor=white)
 
 #### 📱 iOS Development (in progress)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
