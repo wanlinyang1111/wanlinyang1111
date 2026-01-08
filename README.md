@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Wanlin
+# 👋 Hi, I'm Wanlin
 
-- 💡 Aspiring Software Engineer with hands-on experience building AI-powered web apps
-- 🧠 Currently completing a full-stack Software Engineer internship, focusing on React, Flask, PostgreSQL, and OpenAI API
-- 🌍 Previously a data analyst with 3 years of full-time experience and academic background in Business and Management
-- 🌱 Incoming MS in Software Engineering @ Northeastern University (Fall 2025, Boston)
-- ✨ Passionate about applying technology to real-world problems
-- 🌎 Fun facts: Lived in Taipei and Paris, love exploring cultures through everyday details
+- 💻 Software Engineer | MS in Software Engineering @ Northeastern University
+- 🚀 6-month SWE internship experience building production full-stack platforms
+- 🔧 Tech stack: React, Flask, PostgreSQL, Docker, GCP
+- 📊 Former investment analyst with 3 years of business experience
+- 🎯 Passionate about combining technical execution with business impact
+- 🌍 Based in Boston | Lived in Taipei & Paris | Love exploring cultures
 
 ### 🔧 Tech Stack Overview
 
@@ -22,12 +22,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/RESTful%20API-FF6F61?style=flat-square&logo=api&logoColor=white)
-
-#### 📱 iOS Development (in progress)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-1D1D1F?style=flat-square&logo=apple&logoColor=white)
-![Apple Guidelines](https://img.shields.io/badge/Apple%20HIG-000000?style=flat-square&logo=apple&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
