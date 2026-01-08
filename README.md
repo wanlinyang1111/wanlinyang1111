@@ -2,7 +2,6 @@
 
 - 💻 Software Engineer | MS in Software Engineering @ Northeastern University
 - 🚀 6-month SWE internship experience building production full-stack platforms
-- 🔧 Tech stack: React, Flask, PostgreSQL, Docker, GCP
 - 📊 Former investment analyst with 3 years of business experience
 - 🎯 Passionate about combining technical execution with business impact
 - 🌍 Based in Boston | Lived in Taipei & Paris | Love exploring cultures
