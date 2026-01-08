@@ -7,6 +7,11 @@
 - 🎯 Passionate about combining technical execution with business impact
 - 🌍 Based in Boston | Lived in Taipei & Paris | Love exploring cultures
 
+## 🔗 Connect
+- 💼 LinkedIn: www.linkedin.com/in/wan-lin-yang
+- 📧 Eamil: wanlinyang1111@gmail.com
+- 🎯 Open to Summer 2026 internships in Software Engineering, Solutions Engineering, and Technical roles
+
 ### 🔧 Tech Stack Overview
 
 #### 🧑‍💻 Languages
