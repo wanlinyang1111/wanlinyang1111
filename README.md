@@ -7,12 +7,11 @@ M.S. in Software Engineering Systems @ Northeastern University, Boston.
 
 ## 🚀 What I've Built
 
-- 🏥 **Shipped a GPT-powered clinical dietary analysis tool to NTU Hospital** from scratch
-  (React, Flask, PostgreSQL, OpenAI, Docker on GCP), cutting nutritionists' manual analysis time by **75%**
+- 🏥 **[Nutri AI](https://github.com/wanlinyang1111/nutri-ai-frontend): GPT-powered clinical dietary analysis tool shipped to NTU Hospital**
+  Built from scratch with React, Flask, PostgreSQL, and OpenAI, deployed via Docker on GCP.
+  Cut nutritionists' manual analysis time by **75%**. Features multilingual UI, voice meal logging, and AI-generated reports.
 - ⚡ **[SmartFactory Lite](https://github.com/wanlinyang1111/SmartFactory-lite)**: real-time IIoT monitoring
   with Kafka event streaming, WebSocket push, and anomaly detection
-- 🥗 **[Nutri AI](https://github.com/wanlinyang1111/nutri-ai-frontend)**: multilingual AI nutrition assistant
-  with voice meal logging and GPT-generated reports
 - 📊 Before engineering: 3 years as a data analyst, building a receivables automation system
   that lifted collection efficiency to 95–100%
 
